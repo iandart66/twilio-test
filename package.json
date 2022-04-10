@@ -1,0 +1,18 @@
+{
+	"name": "twilio-test",
+	"version": "1.0.0",
+	"description": "Twilio Web Server Application",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"engines": {
+		"node": "12.x"
+	},
+	"author": "Ian Dart",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.3",
+		"twilio": "^3.76.1"
+	}
+}
